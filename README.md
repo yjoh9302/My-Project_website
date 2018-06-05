@@ -1,4 +1,4 @@
-# termproject
+# myproject
 
 > Nuxt.js project
 
